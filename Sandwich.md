@@ -1,6 +1,6 @@
 # Making a sandwich
 
-Get [bread](making_bread.md)  
+Get white [bread](making_bread.md)  
 Butter  
 Add peanuts  
 Eat
